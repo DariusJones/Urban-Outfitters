@@ -1,8 +1,13 @@
 img {
-	margin:10px 10px 10px 10px;
+	margin:5px 5px 5px 5px;
+
 }
 .brand-logo {
 	font-family: 'Didact Gothic', sans-serif;
+}
+.photo-container {
+	width: 100%;
+	margin: auto;
 }
 
  
